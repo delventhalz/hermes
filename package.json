@@ -1,0 +1,16 @@
+{
+  "name": "hermes",
+  "version": "0.0.0",
+  "description": "poc backend messenger using protobuf and zmq",
+  "main": "hermes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "protobufjs": "^6.1.1",
+    "zmq": "^2.15.3"
+  }
+}
